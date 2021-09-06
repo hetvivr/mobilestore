@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:03:50	13416/13416	---M--	200	added ('OK')	text/html	etag:%22d5519-3468-5ad3a0f5bcbc3%22	https://demo.phpjabbers.com/free-web-templates/mobile-store-website-template-81/products.html	C:/PRODUCT/demo.phpjabbers.com/free-web-templates/mobile-store-website-template-81/products.html	(from )
+15:03:51	25/25	---M--	200	added ('OK')	text/plain	etag:%222d4fc-19-520f5d0cf8d09%22	https://demo.phpjabbers.com/robots.txt		(from )
